@@ -1,4 +1,4 @@
-![Header](./header-image-name.png)
+![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Ömer Faruk Maraşlı</h1>
 <h3 align="center">A passionate high school student striving to shape the future with innovative ideas.</h3>
